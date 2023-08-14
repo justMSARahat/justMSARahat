@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MSA Rahat</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on Cesternet **Dev IT**
+- 🔭 I’m currently working on **Cesternet**
 
 - 🌱 I’m currently learning **Android App Development**
 
