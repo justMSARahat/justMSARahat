@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MSA Rahat</h1>
+<h1 align="center">Hi 👋, I'm Md. Shamsul Alom Rahat</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Cesternet**
